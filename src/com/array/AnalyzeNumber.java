@@ -11,13 +11,14 @@ public class AnalyzeNumber {
 		double[] number=new double[NUMBER_OF_ELEMENT];
 		double sum=0;
 		int i;
-		
+		System.out.println("Enter Total Number For Array: ");
 		input = new Scanner(System.in);
 		
-		for( i=0; i < NUMBER_OF_ELEMENT; i++)
+		for( i=1; i <NUMBER_OF_ELEMENT; i++)
 		{
-			System.out.println("Enter A Number: ");
+			
 			number[i] = input.nextDouble();
+			System.out.println("Enter Number: "+i);
 			sum += number[i];
 			
 		}
