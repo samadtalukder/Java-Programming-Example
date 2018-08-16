@@ -7,7 +7,7 @@ public class ArraySize {
 			System.out.println("Array is null and has no size.");
 		}
 		else if(anArray.length==0) {
-			System.out.println("The size of the array is empty");
+			System.out.println("Array is Empty and has no size");
 		}
 		else {
 			int arraySize = anArray.length;
