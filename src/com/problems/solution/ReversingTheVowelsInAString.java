@@ -1,4 +1,4 @@
-package com.problem;
+package com.problems.solution;
 
 import java.util.Scanner;
 import java.util.ArrayList;
