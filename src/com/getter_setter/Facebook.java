@@ -1,4 +1,4 @@
-package com.getter.setter;
+package com.getter_setter;
 
 public class Facebook {
 	private String post;

@@ -1,4 +1,4 @@
-package com.class_example;
+package com.class_example.account;
 /*
  * The Account class models a bank account with a balance.
  */

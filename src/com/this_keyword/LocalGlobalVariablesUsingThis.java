@@ -1,4 +1,4 @@
-package com.thiskeyword;
+package com.this_keyword;
 
 public class LocalGlobalVariablesUsingThis {
 	int num = 100;

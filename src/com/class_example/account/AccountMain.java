@@ -1,4 +1,4 @@
-package com.class_example;
+package com.class_example.account;
 
 public class AccountMain {
 

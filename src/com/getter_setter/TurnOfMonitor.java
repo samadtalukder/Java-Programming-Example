@@ -1,4 +1,4 @@
-package com.getter.setter;
+package com.getter_setter;
 
 import java.util.Scanner;
 
