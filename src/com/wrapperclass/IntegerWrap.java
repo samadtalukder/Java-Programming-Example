@@ -98,8 +98,8 @@ public class IntegerWrap {
         String bb = "45"; 
   
         // Construct two Integer objects 
-        Integer x = new Integer(b); 
-        Integer y = new Integer(bb); 
+        Integer x = b;
+        Integer y = Integer.valueOf(bb);
   
         // toString() 
         System.out.println("toString(b) = " + Integer.toString(b)); 

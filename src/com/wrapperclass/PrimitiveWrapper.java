@@ -3,7 +3,7 @@ package com.wrapperclass;
 public class PrimitiveWrapper {
 
 	public static void main(String[] args) {
-		Integer i = new Integer(20);
+		Integer i = 20;
 		System.out.println(i);
 		modify(i);
 		

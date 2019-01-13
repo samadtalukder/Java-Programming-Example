@@ -6,18 +6,18 @@ public class WrappingUnWrapping {
 		// byte data type
 		byte byt = 1;
 		// wrapping around Byte object
-		Byte bytObj = new Byte(byt);
+		Byte bytObj = byt;
 		// int data type
 		int intData = 20;
 		// wrapping around Integer object
-		Integer intObj = new Integer(intData);
+		Integer intObj = intData;
 		// float data type
 		float flotData = 18.6f;
 		// wrapping around Float object
-		Float flotObj = new Float(flotData);
+		Float flotObj = flotData;
 		// double data type
 		double dblData = 260.60;
-		Double dblObj = new Double(dblData);
+		Double dblObj = dblData;
 		// printing the values from objects
 		System.out.println("Values of Wrapper objects (printing as objects)");
 		System.out.println(byt);
