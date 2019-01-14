@@ -2,28 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699795e5-c6b5-43cd-ae19-a70e032591de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/BooleanExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/ByteExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/CharExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/DoubleExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/FloatExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/IntExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/LongExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/ShortExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/data_type/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/operator/BitwiseOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/operator/EqualityRelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/operator/InstanceofOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/operator/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/operator/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/operator/exrecise/Exercise1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java-Programming-Example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Programming-Example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/data_type/ByteSimple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/data_type/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/ClassVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/ClassVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/DisplayTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_time/DisplayTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/StaticCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/static_/StaticCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/StaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/static_/StaticVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wrapperclass/IntegerWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wrapperclass/IntegerWrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wrapperclass/PrimitiveWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wrapperclass/PrimitiveWrapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/wrapperclass/WrappingUnWrapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wrapperclass/WrappingUnWrapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/operator/CompoundAssignmentOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/operator/CompoundAssignmentOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/ComputeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/ComputeArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/ConditionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/ConditionEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/EqualNumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/EqualNumberCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/FixError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/FixError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/IfSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/IfExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/LowerBoundUpperBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/LowerBoundUpperBound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/SwitchStatementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/SwitchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/CompoundAssignmentOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/CompoundAssignmentOperator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,30 +28,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/data_type/FloatExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/data_type/IntExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/data_type/DoubleExample.java">
+        <entry file="file://$PROJECT_DIR$/src/com/operator/BitwiseOperator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            <state relative-caret-position="280">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -94,6 +71,14 @@
         <option value="$PROJECT_DIR$/src/com/data_type/CharExample.java" />
         <option value="$PROJECT_DIR$/src/com/data_type/IntExample.java" />
         <option value="$PROJECT_DIR$/src/com/data_type/DoubleExample.java" />
+        <option value="$PROJECT_DIR$/src/com/data_type/StringExample.java" />
+        <option value="$PROJECT_DIR$/src/com/operator/CompoundAssignmentOperator.java" />
+        <option value="$PROJECT_DIR$/src/com/operator/exrecise/Exercise1.java" />
+        <option value="$PROJECT_DIR$/src/com/operator/UnaryOperator.java" />
+        <option value="$PROJECT_DIR$/src/com/operator/EqualityRelationalOperator.java" />
+        <option value="$PROJECT_DIR$/src/com/operator/LogicalOperator.java" />
+        <option value="$PROJECT_DIR$/src/com/operator/InstanceofOperator.java" />
+        <option value="$PROJECT_DIR$/src/com/operator/BitwiseOperator.java" />
       </list>
     </option>
   </component>
@@ -111,6 +96,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,28 +121,19 @@
               <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="data_type" type="462c0819:PsiDirectoryNode" />
+              <item name="conditional" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Programming-Example" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="date_time" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Programming-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="problems_solution" type="462c0819:PsiDirectoryNode" />
+              <item name="operator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -182,8 +160,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="DoubleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.data_type.DoubleExample" />
+    <configuration name="BitwiseOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.operator.BitwiseOperator" />
       <module name="Java-Programming-Example" />
       <extension name="coverage">
         <pattern>
@@ -197,7 +175,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoubleExample" />
+        <item itemvalue="Application.BitwiseOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -214,18 +192,20 @@
       <workItem from="1546420735786" duration="2248000" />
       <workItem from="1546491926587" duration="1738000" />
       <workItem from="1547309263231" duration="2892000" />
-      <workItem from="1547380170587" duration="5323000" />
+      <workItem from="1547380170587" duration="9132000" />
+      <workItem from="1547447128671" duration="7408000" />
+      <workItem from="1547459909288" duration="2227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12201000" />
+    <option name="totallyTimeSpent" value="25645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="47" width="1279" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26320064" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2672624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -238,7 +218,7 @@
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32871288" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3273453" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32934132" />
@@ -454,8 +434,134 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/data_type/DoubleExample.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/data_type/StringExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/CompoundAssignmentOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/IncrementDecrementOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/TernaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/BasicArithmeticOperators.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/exrecise/Exercise1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/UnaryOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/EqualityRelationalOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/LogicalOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/InstanceofOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/conditional/IfExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/conditional/SwitchExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/ComputeArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/ConditionEx1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/EqualNumberCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/LowerBoundUpperBound.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/FixError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/operator/BitwiseOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>

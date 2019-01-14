@@ -3,8 +3,6 @@ package com.operator;
 public class CompoundAssignmentOperator {
 
 	public static void main(String[] args) {
-		// var = var op expression;
-		// var op = expression;
 		int num1 = 74;
 		int num2 = 69;
 		int num3 = 33;

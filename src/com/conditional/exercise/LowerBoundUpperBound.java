@@ -1,4 +1,4 @@
-package com.conditional;
+package com.conditional.exercise;
 public class LowerBoundUpperBound {
 
 	public static void main(String[] args) {

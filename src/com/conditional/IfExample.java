@@ -1,6 +1,6 @@
 package com.conditional;
 
-public class IfSample {
+public class IfExample {
 
 	public static void main(String[] args) {
 		int x = 15;

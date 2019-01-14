@@ -1,4 +1,4 @@
-package com.conditional;
+package com.conditional.exercise;
 
 public class ConditionEx1 {
 

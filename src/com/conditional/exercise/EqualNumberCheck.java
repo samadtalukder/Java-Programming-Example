@@ -1,4 +1,4 @@
-package com.conditional;
+package com.conditional.exercise;
 
 import java.util.Scanner;
 
