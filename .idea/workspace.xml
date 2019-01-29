@@ -2,23 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699795e5-c6b5-43cd-ae19-a70e032591de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/data_type/StringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operator/BitwiseOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operator/EqualityRelationalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operator/InstanceofOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operator/LogicalOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operator/UnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/operator/exrecise/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/array/FindSmallestNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/conditional/exercise/GameOver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/method/GameOver2Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/method/GameOverMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/method/ReturnMultipleValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/method/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/method/overloading/FeetInchesCentimetersConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/method/overloading/GameOverOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/misc_program/CheckPositiveNegativeZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/misc_program/ConvertToKBMBGB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/misc_program/DecimalToHexaConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/misc_program/GreetingsLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/misc_program/WordCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/operator/CompoundAssignmentOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/operator/CompoundAssignmentOperator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/conditional/ComputeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/ComputeArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/conditional/ConditionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/ConditionEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/conditional/EqualNumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/EqualNumberCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/conditional/FixError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/FixError.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/conditional/IfSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/IfExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/conditional/LowerBoundUpperBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/LowerBoundUpperBound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/conditional/SwitchStatementExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/SwitchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/operator/CompoundAssignmentOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/CompoundAssignmentOperator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/operator/BitwiseOperator.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/method/overloading/GameOverOverloading.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            <state relative-caret-position="45">
+              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/method/overloading/FeetInchesCentimetersConversion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -79,6 +86,21 @@
         <option value="$PROJECT_DIR$/src/com/operator/LogicalOperator.java" />
         <option value="$PROJECT_DIR$/src/com/operator/InstanceofOperator.java" />
         <option value="$PROJECT_DIR$/src/com/operator/BitwiseOperator.java" />
+        <option value="$PROJECT_DIR$/src/com/misc_program/DecimalToHexaConverter.java" />
+        <option value="$PROJECT_DIR$/src/com/misc_program/StackProgram.java" />
+        <option value="$PROJECT_DIR$/src/com/misc_program/GreatingsLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/misc_program/WordCounter.java" />
+        <option value="$PROJECT_DIR$/src/com/array/FindSmallestNumberInArray.java" />
+        <option value="$PROJECT_DIR$/src/com/conditional/exercise/GameOver.java" />
+        <option value="$PROJECT_DIR$/src/com/method/GameOverMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/method/GameOver2Method.java" />
+        <option value="$PROJECT_DIR$/src/com/misc_program/CheckPositiveNegativeZero.java" />
+        <option value="$PROJECT_DIR$/src/com/misc_program/MegaByteConverter.java" />
+        <option value="$PROJECT_DIR$/src/com/misc_program/ConvertToKBMBGB.java" />
+        <option value="$PROJECT_DIR$/src/com/method/Swap.java" />
+        <option value="$PROJECT_DIR$/src/com/method/ReturnMultipleValues.java" />
+        <option value="$PROJECT_DIR$/src/com/method/overloading/GameOverOverloading.java" />
+        <option value="$PROJECT_DIR$/src/com/method/overloading/FeetInchesCentimetersConversion.java" />
       </list>
     </option>
   </component>
@@ -128,7 +150,15 @@
               <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="operator" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Programming-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
+              <item name="overloading" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -160,8 +190,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="BitwiseOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.operator.BitwiseOperator" />
+    <configuration name="FeetInchesCentimetersConversion" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.method.overloading.FeetInchesCentimetersConversion" />
       <module name="Java-Programming-Example" />
       <extension name="coverage">
         <pattern>
@@ -173,11 +203,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.BitwiseOperator" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -194,18 +219,21 @@
       <workItem from="1547309263231" duration="2892000" />
       <workItem from="1547380170587" duration="9132000" />
       <workItem from="1547447128671" duration="7408000" />
-      <workItem from="1547459909288" duration="2227000" />
+      <workItem from="1547459909288" duration="4012000" />
+      <workItem from="1548562011801" duration="6933000" />
+      <workItem from="1548658924086" duration="14046000" />
+      <workItem from="1548738561788" duration="4118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25645000" />
+    <option name="totallyTimeSpent" value="52527000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="47" width="1279" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2672624" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.27701056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -236,76 +264,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/wrapperclass/IntegerWrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="101" column="26" selection-start-line="101" selection-start-column="26" selection-end-line="101" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wrapperclass/PrimitiveWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wrapperclass/WrappingUnWrapping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/date_time/DisplayTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/misc_program/BkashChargeCalc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/misc_program/BMICalculation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/class_example/ClassVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/misc_program/ConversionCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/misc_program/DynamicInitial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/misc_program/LocalVariable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/misc_program/SimpleCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -560,8 +518,103 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/operator/BitwiseOperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        <state relative-caret-position="135">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/misc_program/StackProgram.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/misc_program/DecimalToHexaConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/misc_program/WordCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/misc_program/GreetingsLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/method/GameOverMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="113" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/method/GameOver2Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/misc_program/CheckPositiveNegativeZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/GameOver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/method/Swap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/misc_program/ConvertToKBMBGB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/array/FindSmallestNumberInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/method/ReturnMultipleValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/method/overloading/GameOverOverloading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/method/overloading/FeetInchesCentimetersConversion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
         </state>
       </provider>
     </entry>
