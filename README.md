@@ -8,7 +8,7 @@
 * [Method](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/method)
 * [String](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/string)
 * [Class Object](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/class_example)
-* [Wrapper Class](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/wrapperclass)
+* [Inheritance](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/inheritance)
 * [Constructor](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/constructor)
 * [Interface](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/_interface)
 * [Abstraction](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/abstraction)
@@ -22,14 +22,13 @@
 * [File Handling](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/file_io)
 * [Generics](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/generics)
 * [Getter-Setter](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/getter_setter)
-* [Inheritance](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/inheritance)
-* [Polymorphism]
+* [Wrapper Class](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/wrapperclass)
 * [Access Modifiers]()
 * [this](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/this_keyword)
-* [super]
-* [static](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/static_)
-* [final]
+* [super](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/_super)
+* [static](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/_static)
+* [final](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/_final)
 * [Inner Class](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/inner_class)
 * [Nested Classes](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/nested_class)
-* [Arrays]
+* [Collection Frameworks](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/collection_frameworks)
 * [Generics](https://github.com/samadtalukder/Java-Programming-Example/tree/master/src/com/generics)
