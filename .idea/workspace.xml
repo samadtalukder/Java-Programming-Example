@@ -2,43 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699795e5-c6b5-43cd-ae19-a70e032591de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/_final/FinalEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/_super/SuperEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/array/AscendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/array/DescendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/array/FindMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/array/ReferenceTypeVsValueType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/array/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arrays/ArraysEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/constructor/ChainingConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/date_time/CalenderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/date_time/TodayDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/date_time/TodayTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/method/overloading/HoursMinutesSeconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListAscendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListDescendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/ContactsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/MobileNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loop/InTheLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/FindSmallestNumberInArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/arraylist/ChangeValueInArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/arraylist/GetSizeArrayListBeforeAndAfter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/arraylist/game/GameMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/arraylist/game/GameModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/method/overloading/FeetInchesCentimetersConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/method/overloading/FeetInchesCentimetersConversion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/static_/StaticCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/static_/StaticMethodExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/static_/StaticMethodVariableExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/static_/StaticVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/static_/University.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/static_/Utitlity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arraylist/ChangeValueInArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ChangeValueInArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arraylist/GetSizeArrayListBeforeAndAfter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/GetSizeArrayListBeforeAndAfter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arraylist/game/GameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/game/GameMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/arraylist/game/GameModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/game/GameModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/static_/StaticCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/static_/StaticMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticMethodExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/static_/StaticMethodVariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticMethodVariableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/static_/StaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/collection_frameworks/arraylist/example1/PlayerMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/collection_frameworks/arraylist/example1/PlayerMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/account/AccountMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/account/AccountMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,33 +20,48 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerList.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ArrayListExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+            <state relative-caret-position="235">
+              <caret line="76" column="60" selection-start-line="76" selection-start-column="60" selection-end-line="76" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListAscendingOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
               <folding>
-                <element signature="e#171#179#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#1128#1129#0" expanded="true" />
-                <element signature="e#1165#1166#0" expanded="true" />
-                <element signature="e#1193#1194#0" expanded="true" />
-                <element signature="e#1236#1237#0" expanded="true" />
-                <element signature="e#898#899#0" expanded="true" />
-                <element signature="e#946#947#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerMain.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListDescendingOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="95" column="47" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="47" />
+            <state relative-caret-position="130">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,6 +81,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>gregorian</find>
+      <find>set</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -101,14 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/data_type/Example2.java" />
-        <option value="$PROJECT_DIR$/src/com/data_type/Example3.java" />
-        <option value="$PROJECT_DIR$/src/com/date_time/DisplayTime.java" />
-        <option value="$PROJECT_DIR$/src/com/class_example/ClassVariable.java" />
-        <option value="$PROJECT_DIR$/src/com/static_/StaticCount.java" />
-        <option value="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise3.java" />
-        <option value="$PROJECT_DIR$/src/com/data_type/ByteExample.java" />
-        <option value="$PROJECT_DIR$/src/com/data_type/LongExample.java" />
         <option value="$PROJECT_DIR$/src/com/data_type/ShortExample.java" />
         <option value="$PROJECT_DIR$/src/com/data_type/BooleanExample.java" />
         <option value="$PROJECT_DIR$/src/com/data_type/FloatExample.java" />
@@ -152,6 +133,14 @@
         <option value="$PROJECT_DIR$/src/com/array/ReverseArray.java" />
         <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerList.java" />
         <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerMain.java" />
+        <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/Contacts.java" />
+        <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/MobileNo.java" />
+        <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/ContactsMain.java" />
+        <option value="$PROJECT_DIR$/src/com/loop/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/loop/InTheLoop.java" />
+        <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListAscendingOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListDescendingOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ArrayListExample.java" />
       </list>
     </option>
   </component>
@@ -204,15 +193,6 @@
               <item name="collection_frameworks" type="462c0819:PsiDirectoryNode" />
               <item name="arraylist" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Java-Programming-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="collection_frameworks" type="462c0819:PsiDirectoryNode" />
-              <item name="arraylist" type="462c0819:PsiDirectoryNode" />
-              <item name="example1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -228,9 +208,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.collection_frameworks.arraylist" />
       <recent name="com.array" />
       <recent name="com.date_time" />
     </key>
@@ -248,8 +230,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="PlayerMain" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection_frameworks.arraylist.example1.PlayerMain" />
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection_frameworks.arraylist.ArrayListExample" />
       <module name="Java-Programming-Example" />
       <extension name="coverage">
         <pattern>
@@ -285,12 +267,13 @@
       <workItem from="1548850808146" duration="318000" />
       <workItem from="1548919045650" duration="1760000" />
       <workItem from="1548926334829" duration="3771000" />
-      <workItem from="1549081603701" duration="15479000" />
+      <workItem from="1549081603701" duration="16519000" />
+      <workItem from="1549168807630" duration="15268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92020000" />
+    <option name="totallyTimeSpent" value="108328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="47" width="1279" height="668" extended-state="0" />
@@ -302,14 +285,14 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32934132" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.3992016" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.83433133" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.58483034" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32934132" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32934132" />
@@ -318,113 +301,15 @@
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32981315" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/operator/TernaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operator/BasicArithmeticOperators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operator/exrecise/Exercise1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operator/UnaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operator/EqualityRelationalOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="48" lean-forward="true" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operator/LogicalOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="47" lean-forward="true" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/operator/InstanceofOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/conditional/IfExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/conditional/SwitchExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/ComputeArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/ConditionEx1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/EqualNumberCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/LowerBoundUpperBound.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/FixError.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/operator/BitwiseOperator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -680,31 +565,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="239">
+          <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
           <folding>
-            <element signature="e#171#179#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#1128#1129#0" expanded="true" />
-            <element signature="e#1165#1166#0" expanded="true" />
-            <element signature="e#1193#1194#0" expanded="true" />
-            <element signature="e#1236#1237#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#946#947#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerMain.java">
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="95" column="47" selection-start-line="95" selection-start-column="47" selection-end-line="95" selection-end-column="47" />
+        <state relative-caret-position="270">
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/Contacts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="137" column="35" lean-forward="true" selection-start-line="137" selection-start-column="35" selection-end-line="137" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3305">
+          <caret line="203" column="12" lean-forward="true" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="72" column="56" lean-forward="true" selection-start-line="72" selection-start-column="56" selection-end-line="72" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/MobileNo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <element signature="e#2071#2072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="369" column="6" lean-forward="true" selection-start-line="369" selection-start-column="6" selection-end-line="369" selection-end-column="6" />
+          <folding>
+            <element signature="e#10586#10587#0" expanded="true" />
+            <element signature="e#10613#10614#0" expanded="true" />
+            <element signature="e#10793#10794#0" expanded="true" />
+            <element signature="e#10825#10826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/ContactsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/loop/InTheLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ChangeValueInArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListAscendingOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListDescendingOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ArrayListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="76" column="60" selection-start-line="76" selection-start-column="60" selection-end-line="76" selection-end-column="60" />
         </state>
       </provider>
     </entry>
