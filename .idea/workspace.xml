@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699795e5-c6b5-43cd-ae19-a70e032591de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Branches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Customers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arrays/ArraysExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/misc_program/EncodeDecode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/collection_frameworks/arraylist/ArrayListExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/collection_frameworks/arraylist/ArrayListExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/collection_frameworks/arrays/ArraysEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arrays/ArraysEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/autoboxing_unboxing/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/autoboxing_unboxing/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/collection_frameworks/linkedList/LinkedListExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/collection_frameworks/linkedList/LinkedListExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,57 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/autoboxing_unboxing/Customers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#436#437#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/autoboxing_unboxing/Branches.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="41" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="41" />
-              <folding>
-                <element signature="e#1253#1254#0" expanded="true" />
-                <element signature="e#1286#1287#0" expanded="true" />
-                <element signature="e#1340#1341#0" expanded="true" />
-                <element signature="e#1376#1377#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/autoboxing_unboxing/Bank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-              <folding>
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/autoboxing_unboxing/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="330">
+              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -112,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/operator/UnaryOperator.java" />
         <option value="$PROJECT_DIR$/src/com/operator/EqualityRelationalOperator.java" />
         <option value="$PROJECT_DIR$/src/com/operator/LogicalOperator.java" />
         <option value="$PROJECT_DIR$/src/com/operator/InstanceofOperator.java" />
@@ -154,7 +102,6 @@
         <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListAscendingOrder.java" />
         <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListDescendingOrder.java" />
         <option value="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ArrayListExample.java" />
-        <option value="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" />
         <option value="$PROJECT_DIR$/src/com/collection_frameworks/arrays/ArraysEx.java" />
         <option value="$PROJECT_DIR$/src/com/collection_frameworks/arrays/ArraysExample.java" />
         <option value="$PROJECT_DIR$/src/com/misc_program/LoveCalculator.java" />
@@ -163,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/com/autoboxing_unboxing/Branches.java" />
         <option value="$PROJECT_DIR$/src/com/autoboxing_unboxing/Bank.java" />
         <option value="$PROJECT_DIR$/src/com/autoboxing_unboxing/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/misc_program/EncodeDecode.java" />
+        <option value="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" />
       </list>
     </option>
   </component>
@@ -180,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -205,12 +153,21 @@
               <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="autoboxing_unboxing" type="462c0819:PsiDirectoryNode" />
+              <item name="collection_frameworks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Programming-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="collection_frameworks" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -244,8 +201,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.autoboxing_unboxing.Main" />
+    <configuration name="LinkedListExample" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.collection_frameworks.linkedList.LinkedListExample" />
       <module name="Java-Programming-Example" />
       <extension name="coverage">
         <pattern>
@@ -285,18 +242,25 @@
       <workItem from="1549168807630" duration="18463000" />
       <workItem from="1549255643607" duration="2161000" />
       <workItem from="1549349023513" duration="1918000" />
-      <workItem from="1549512244935" duration="11668000" />
+      <workItem from="1549512244935" duration="12547000" />
+      <workItem from="1549863318696" duration="3032000" />
+      <workItem from="1549945518267" duration="1198000" />
+      <workItem from="1550038866841" duration="1207000" />
+      <workItem from="1550333893919" duration="592000" />
+      <workItem from="1550378679736" duration="601000" />
+      <workItem from="1550598325421" duration="1024000" />
+      <workItem from="1550933993768" duration="2116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127270000" />
+    <option name="totallyTimeSpent" value="137919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="77" y="47" width="1279" height="668" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2965069" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24451666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -314,7 +278,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32934132" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32934132" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info active="true" anchor="right" id="Run" order="1" visible="true" weight="0.29569456" />
+      <window_info anchor="right" id="Run" order="1" weight="0.29569456" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -327,16 +291,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/misc_program/CheckPositiveNegativeZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/GameOver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -684,35 +638,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/misc_program/LoveCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="49" lean-forward="true" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arrays/ArraysExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="44" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/misc_program/LoveCalculator.java" />
     <entry file="file://$PROJECT_DIR$/src/com/autoboxing_unboxing/Customers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
+            <element signature="e#397#398#0" expanded="true" />
             <element signature="e#436#437#0" expanded="true" />
             <element signature="e#475#476#0" expanded="true" />
             <element signature="e#510#511#0" expanded="true" />
@@ -737,8 +669,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/autoboxing_unboxing/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="56" column="26" lean-forward="true" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        <state relative-caret-position="780">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
           <folding>
             <element signature="e#191#192#0" expanded="true" />
             <element signature="e#222#223#0" expanded="true" />
@@ -750,8 +682,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/autoboxing_unboxing/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="135">
+          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/arrays/ArraysExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="49" column="39" lean-forward="true" selection-start-line="49" selection-start-column="39" selection-end-line="49" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/misc_program/EncodeDecode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
         </state>
       </provider>
     </entry>
