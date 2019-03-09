@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699795e5-c6b5-43cd-ae19-a70e032591de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/misc_program/EncodeDecode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class_example/car/CarModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class_example/car/MainCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/date_time/DateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thread/ExtendedMainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thread/ThreadEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/thread/ThreadState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/autoboxing_unboxing/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/autoboxing_unboxing/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/collection_frameworks/linkedList/LinkedListExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/collection_frameworks/linkedList/LinkedListExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/SimpleThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thread/SimpleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thread/MainThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +37,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/class_example/car/CarModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+            <state relative-caret-position="245">
+              <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+              <folding>
+                <element signature="e#1474#1475#0" expanded="true" />
+                <element signature="e#1478#1479#0" expanded="true" />
+                <element signature="e#1516#1517#0" expanded="true" />
+                <element signature="e#1552#1553#0" expanded="true" />
+                <element signature="e#1584#1585#0" expanded="true" />
+                <element signature="e#1712#1713#0" expanded="true" />
+                <element signature="e#1975#1976#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/class_example/car/MainCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,16 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/operator/EqualityRelationalOperator.java" />
-        <option value="$PROJECT_DIR$/src/com/operator/LogicalOperator.java" />
-        <option value="$PROJECT_DIR$/src/com/operator/InstanceofOperator.java" />
-        <option value="$PROJECT_DIR$/src/com/operator/BitwiseOperator.java" />
-        <option value="$PROJECT_DIR$/src/com/misc_program/DecimalToHexaConverter.java" />
-        <option value="$PROJECT_DIR$/src/com/misc_program/StackProgram.java" />
-        <option value="$PROJECT_DIR$/src/com/misc_program/GreatingsLoop.java" />
-        <option value="$PROJECT_DIR$/src/com/misc_program/WordCounter.java" />
-        <option value="$PROJECT_DIR$/src/com/array/FindSmallestNumberInArray.java" />
-        <option value="$PROJECT_DIR$/src/com/conditional/exercise/GameOver.java" />
         <option value="$PROJECT_DIR$/src/com/method/GameOverMethod.java" />
         <option value="$PROJECT_DIR$/src/com/method/GameOver2Method.java" />
         <option value="$PROJECT_DIR$/src/com/misc_program/CheckPositiveNegativeZero.java" />
@@ -112,10 +147,20 @@
         <option value="$PROJECT_DIR$/src/com/autoboxing_unboxing/Main.java" />
         <option value="$PROJECT_DIR$/src/com/misc_program/EncodeDecode.java" />
         <option value="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" />
+        <option value="$PROJECT_DIR$/src/com/thread/MainThread.java" />
+        <option value="$PROJECT_DIR$/src/com/thread/ExtendedThread.java" />
+        <option value="$PROJECT_DIR$/src/com/thread/ExtendedMainThread.java" />
+        <option value="$PROJECT_DIR$/src/com/date_time/DateEx.java" />
+        <option value="$PROJECT_DIR$/src/com/thread/ThreadEx.java" />
+        <option value="$PROJECT_DIR$/src/com/thread/ThreadState.java" />
+        <option value="$PROJECT_DIR$/src/com/class_example/car/CarModel.java" />
+        <option value="$PROJECT_DIR$/src/com/class_example/car/SubCar.java" />
+        <option value="$PROJECT_DIR$/src/com/class_example/car/MainCar.java" />
+        <option value="$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="77" />
     <option name="y" value="47" />
     <option name="width" value="1279" />
@@ -130,6 +175,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,21 +199,12 @@
               <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="collection_frameworks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java-Programming-Example" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="collection_frameworks" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="class_example" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,8 +238,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="LinkedListExample" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.collection_frameworks.linkedList.LinkedListExample" />
+    <configuration name="MainCar" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.class_example.car.MainCar" />
       <module name="Java-Programming-Example" />
       <extension name="coverage">
         <pattern>
@@ -250,23 +287,27 @@
       <workItem from="1550378679736" duration="601000" />
       <workItem from="1550598325421" duration="1024000" />
       <workItem from="1550933993768" duration="2116000" />
+      <workItem from="1551547986887" duration="1502000" />
+      <workItem from="1551632671074" duration="601000" />
+      <workItem from="1551685638207" duration="2142000" />
+      <workItem from="1551717984086" duration="599000" />
+      <workItem from="1552108215775" duration="12360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137919000" />
+    <option name="totallyTimeSpent" value="155123000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="47" width="1279" height="668" extended-state="0" />
-    <editor active="true" />
+    <frame x="67" y="27" width="1299" height="708" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24451666" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24780177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32934132" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32902032" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.3992016" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -278,7 +319,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32934132" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32934132" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Run" order="1" weight="0.29569456" />
+      <window_info anchor="right" id="Run" order="1" weight="0.29656276" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -291,73 +332,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/conditional/exercise/GameOver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/method/Swap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/misc_program/ConvertToKBMBGB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/array/FindSmallestNumberInArray.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/method/ReturnMultipleValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/method/overloading/GameOverOverloading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/_super/SuperEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/method/overloading/HoursMinutesSeconds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="360">
-            <caret line="24" column="109" selection-start-line="24" selection-start-column="109" selection-end-line="24" selection-end-column="109" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/date_time/DisplayTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/_final/FinalEx.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -469,13 +443,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/array/FindMinimum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -706,8 +673,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        <state relative-caret-position="280">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/array/FindMinimum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/date_time/DateEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thread/MainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thread/ExtendedMainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thread/ThreadEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="27" column="44" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class_example/car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/thread/ThreadState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/_interface/vehicle/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class_example/car/CarModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+          <folding>
+            <element signature="e#1474#1475#0" expanded="true" />
+            <element signature="e#1478#1479#0" expanded="true" />
+            <element signature="e#1516#1517#0" expanded="true" />
+            <element signature="e#1552#1553#0" expanded="true" />
+            <element signature="e#1584#1585#0" expanded="true" />
+            <element signature="e#1712#1713#0" expanded="true" />
+            <element signature="e#1975#1976#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class_example/car/MainCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
