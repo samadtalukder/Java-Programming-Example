@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699795e5-c6b5-43cd-ae19-a70e032591de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/class_example/car/CarModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/class_example/car/MainCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/date_time/DateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thread/ExtendedMainThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thread/ThreadEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/thread/ThreadState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/SimpleThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/thread/SimpleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thread/MainThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_final/FinalEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_final/FinalEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_static/StaticCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/misc_program/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/Person.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,50 +32,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/class_example/car/CarModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
-              <folding>
-                <element signature="e#1474#1475#0" expanded="true" />
-                <element signature="e#1478#1479#0" expanded="true" />
-                <element signature="e#1516#1517#0" expanded="true" />
-                <element signature="e#1552#1553#0" expanded="true" />
-                <element signature="e#1584#1585#0" expanded="true" />
-                <element signature="e#1712#1713#0" expanded="true" />
-                <element signature="e#1975#1976#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/class_example/car/MainCar.java">
+        <entry file="file://$PROJECT_DIR$/src/com/_static/StaticCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="150">
+              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java">
+        <entry file="file://$PROJECT_DIR$/src/com/_static/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#169#170#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#512#513#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -106,9 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/method/GameOverMethod.java" />
-        <option value="$PROJECT_DIR$/src/com/method/GameOver2Method.java" />
-        <option value="$PROJECT_DIR$/src/com/misc_program/CheckPositiveNegativeZero.java" />
         <option value="$PROJECT_DIR$/src/com/misc_program/MegaByteConverter.java" />
         <option value="$PROJECT_DIR$/src/com/misc_program/ConvertToKBMBGB.java" />
         <option value="$PROJECT_DIR$/src/com/method/Swap.java" />
@@ -157,6 +119,9 @@
         <option value="$PROJECT_DIR$/src/com/class_example/car/SubCar.java" />
         <option value="$PROJECT_DIR$/src/com/class_example/car/MainCar.java" />
         <option value="$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java" />
+        <option value="$PROJECT_DIR$/src/com/_final/FinalEx.java" />
+        <option value="$PROJECT_DIR$/src/com/_static/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/_static/StaticCount.java" />
       </list>
     </option>
   </component>
@@ -199,7 +164,14 @@
               <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="class_example" type="462c0819:PsiDirectoryNode" />
+              <item name="_static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java-Programming-Example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="misc_program" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,8 +210,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="MainCar" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.class_example.car.MainCar" />
+    <configuration name="StaticCount" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._static.StaticCount" />
       <module name="Java-Programming-Example" />
       <extension name="coverage">
         <pattern>
@@ -291,17 +263,47 @@
       <workItem from="1551632671074" duration="601000" />
       <workItem from="1551685638207" duration="2142000" />
       <workItem from="1551717984086" duration="599000" />
-      <workItem from="1552108215775" duration="12360000" />
+      <workItem from="1552108215775" duration="13774000" />
     </task>
+    <task id="LOCAL-00001" summary="thread program added">
+      <created>1552133110328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552133110328</updated>
+    </task>
+    <task id="LOCAL-00002" summary="car class example added">
+      <created>1552133130903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552133130903</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new date program added">
+      <created>1552133164871</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552133164871</updated>
+    </task>
+    <task id="LOCAL-00004" summary="final program added">
+      <created>1552134071678</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552134071678</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155123000" />
+    <option name="totallyTimeSpent" value="156537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="708" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24780177" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24780177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -314,12 +316,12 @@
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.58483034" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5841035" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32934132" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32934132" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32902032" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Run" order="1" weight="0.29656276" />
+      <window_info active="true" anchor="right" id="Run" order="1" visible="true" weight="0.29656276" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -331,38 +333,14 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="thread program added" />
+    <MESSAGE value="car class example added" />
+    <MESSAGE value="new date program added" />
+    <MESSAGE value="final program added" />
+    <option name="LAST_COMMIT_MESSAGE" value="final program added" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/_final/FinalEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/method/overloading/FeetInchesCentimetersConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/date_time/TodayDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/date_time/TodayTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/util/GregorianCalendar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -756,7 +734,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="e#169#170#0" expanded="true" />
             <element signature="e#192#193#0" expanded="true" />
@@ -774,8 +752,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/class_example/car/MainCar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="381">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/_final/FinalEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/array/AnalyzeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/_static/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/_static/StaticCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
         </state>
       </provider>
     </entry>
