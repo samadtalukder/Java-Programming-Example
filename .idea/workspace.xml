@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699795e5-c6b5-43cd-ae19-a70e032591de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/_super/SuperRealExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/_super/SuperWithConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/_super/SuperWithMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_final/FinalEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_final/FinalEx.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/_static/StaticCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/SuperEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_super/SuperEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_super/SuperWithVariables.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,19 +34,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/_static/StaticCount.java">
+        <entry file="file://$PROJECT_DIR$/src/com/_super/SuperRealExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+            <state relative-caret-position="350">
+              <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/_static/Person.java">
+        <entry file="file://$PROJECT_DIR$/src/com/_super/SuperWithConstructors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="285">
+              <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="44" />
+              <folding>
+                <element signature="e#50#51#0" expanded="true" />
+                <element signature="e#100#101#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,10 +76,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/misc_program/MegaByteConverter.java" />
-        <option value="$PROJECT_DIR$/src/com/misc_program/ConvertToKBMBGB.java" />
-        <option value="$PROJECT_DIR$/src/com/method/Swap.java" />
-        <option value="$PROJECT_DIR$/src/com/method/ReturnMultipleValues.java" />
         <option value="$PROJECT_DIR$/src/com/method/overloading/GameOverOverloading.java" />
         <option value="$PROJECT_DIR$/src/com/method/overloading/FeetInchesCentimetersConversion.java" />
         <option value="$PROJECT_DIR$/src/com/method/overloading/HoursMinutesSeconds.java" />
@@ -122,6 +123,10 @@
         <option value="$PROJECT_DIR$/src/com/_final/FinalEx.java" />
         <option value="$PROJECT_DIR$/src/com/_static/Person.java" />
         <option value="$PROJECT_DIR$/src/com/_static/StaticCount.java" />
+        <option value="$PROJECT_DIR$/src/com/_super/SuperWithVariables.java" />
+        <option value="$PROJECT_DIR$/src/com/_super/SuperWithMethod.java" />
+        <option value="$PROJECT_DIR$/src/com/_super/SuperWithConstructors.java" />
+        <option value="$PROJECT_DIR$/src/com/_super/SuperRealExample.java" />
       </list>
     </option>
   </component>
@@ -135,12 +140,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,7 +167,7 @@
               <item name="Java-Programming-Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="_static" type="462c0819:PsiDirectoryNode" />
+              <item name="_super" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java-Programming-Example" type="b2602c69:ProjectViewProjectNode" />
@@ -172,6 +175,36 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="misc_program" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java-Programming-Example" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java-Programming-Example" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Java-Programming-Example" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java-Programming-Example" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Java-Programming-Example" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java-Programming-Example" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="_super" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="Java-Programming-Example" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Java-Programming-Example" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+              <item name="_super" type="1f31426a:PackageElementNode" />
+              <item name="SuperWithConstructors.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -210,8 +243,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="StaticCount" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com._static.StaticCount" />
+    <configuration name="SuperRealExample" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com._super.SuperRealExample" />
       <module name="Java-Programming-Example" />
       <extension name="coverage">
         <pattern>
@@ -263,7 +296,8 @@
       <workItem from="1551632671074" duration="601000" />
       <workItem from="1551685638207" duration="2142000" />
       <workItem from="1551717984086" duration="599000" />
-      <workItem from="1552108215775" duration="13774000" />
+      <workItem from="1552108215775" duration="14591000" />
+      <workItem from="1552191993122" duration="4075000" />
     </task>
     <task id="LOCAL-00001" summary="thread program added">
       <created>1552133110328</created>
@@ -293,17 +327,24 @@
       <option name="project" value="LOCAL" />
       <updated>1552134071678</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="static program update">
+      <created>1552134439791</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552134439791</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156537000" />
+    <option name="totallyTimeSpent" value="161429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="708" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24780177" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25179857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -321,7 +362,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32934132" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32902032" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info active="true" anchor="right" id="Run" order="1" visible="true" weight="0.29656276" />
+      <window_info anchor="right" id="Run" order="1" weight="0.29656276" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
@@ -338,57 +379,10 @@
     <MESSAGE value="car class example added" />
     <MESSAGE value="new date program added" />
     <MESSAGE value="final program added" />
-    <option name="LAST_COMMIT_MESSAGE" value="final program added" />
+    <MESSAGE value="static program update" />
+    <option name="LAST_COMMIT_MESSAGE" value="static program update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/util/GregorianCalendar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="750" column="42" lean-forward="true" selection-start-line="750" selection-start-column="42" selection-end-line="750" selection-end-column="42" />
-          <folding>
-            <element signature="e#24917#24918#0" expanded="true" />
-            <element signature="e#24974#24975#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/date_time/CalenderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/inheritance/super_/SuperExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/inheritance/box/ReferenceBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/constructor/ChainingConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding>
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/constructor/ConstructorExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -694,13 +688,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/class_example/car/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/class_example/car/Car.java" />
     <entry file="file://$PROJECT_DIR$/src/com/thread/ThreadState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -771,6 +759,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/_static/StaticVariable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/_static/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -780,8 +775,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/_static/StaticCount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        <state relative-caret-position="60">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/_super/SuperWithVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/_super/SuperWithMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#52#53#0" expanded="true" />
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/_super/SuperWithConstructors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="44" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <element signature="e#50#51#0" expanded="true" />
+            <element signature="e#100#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/_super/SuperRealExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
         </state>
       </provider>
     </entry>
