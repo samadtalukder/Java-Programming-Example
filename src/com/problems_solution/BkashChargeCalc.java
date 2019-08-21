@@ -1,4 +1,4 @@
-package com.misc_program;
+package com.problems_solution;
 
 import java.util.Scanner;
 
@@ -24,13 +24,13 @@ public class BkashChargeCalc {
 				System.out.println("You Choice: bkash Cash Out Charge From Agent");
 				System.out.println("Enter Amount: ");
 				int num = input.nextInt();
-				bksashCashOutFromAgent(num, bkashVat);
+				bkashCashOutFromAgent(num, bkashVat);
 				break;
 			case 2:
 				System.out.println("You Choice: bkash Cash Out Charge From App");
 				System.out.println("Enter Amount: ");
 				int num2 = input.nextInt();
-				bksashCashOutFromApp(num2, bkashAppVat);
+				bkashCashOutFromApp(num2, bkashAppVat);
 				break;
 				default:
 					System.out.println("Wrong Input !!");
@@ -38,16 +38,16 @@ public class BkashChargeCalc {
 		}
 	}
 		
-		private static void bksashCashOutFromApp(int num, double bkashAppVat) {
-			double totalVat = (num * bkashAppVat / 100);
-			double appVatEquation = (num * bkashAppVat / 100)+num;
+		private static void bkashCashOutFromApp(int num, double bkashVat) {
+			double totalVat = (num * bkashVat / 100);
+			double appVatEquation = (num * bkashVat / 100)+num;
 			System.out.println("Your bkash Cash Out Charge From App: "+appVatEquation);
 			System.out.println("You Total Pay Of Amount "+appVatEquation+" of "+num);
 			System.out.println("Your Total Vat: "+totalVat);
 		
 	}
 
-	private static void bksashCashOutFromAgent(int num, double bkashVat) {
+	private static void bkashCashOutFromAgent(int num, double bkashVat) {
 		double totalVat = (num * bkashVat / 100);
 		double vatEquation = (num * bkashVat / 100)+num;
 		System.out.println("Your bkash Cash Out Charge From App: "+vatEquation);

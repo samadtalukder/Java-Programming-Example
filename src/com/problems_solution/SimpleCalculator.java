@@ -1,4 +1,4 @@
-package com.misc_program;
+package com.problems_solution;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 

@@ -1,4 +1,4 @@
-package com.misc_program;
+package com.problems_solution;
 
 public class CheckPositiveNegativeZero {
     public static void main(String[] args) {
