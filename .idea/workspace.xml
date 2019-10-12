@@ -2,28 +2,262 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="503b8d75-49fd-4cf0-829d-37167ed4e1b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/date_time/AddAMPMToFormattedDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/date_time/ConvertDateFormats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/date_time/GMTtoLocal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/problems_solution/EpochConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inheritance/computer/ComputerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inheritance/computer/Linux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inheritance/computer/Mac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inheritance/computer/MainComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inheritance/computer/Windows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/META-INF/Java-Programming-Example.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Programming-Example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Programming-Example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/_interface/SimpleInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/_interface/SimpleInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/_interface/vehicle/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/_interface/vehicle/Bike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/_interface/vehicle/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/_interface/vehicle/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/_interface/vehicle/TwoWheeledVehicles.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/_interface/vehicle/TwoWheeledVehicles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/_interface/vehicle/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/_interface/vehicle/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/AbstractClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/AbstractClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/AbstractClassMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/AbstractClassMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/PersonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/PersonMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/animal/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/animal/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/animal/AnimalMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/animal/AnimalMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/animal/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/animal/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/animal/Cow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/animal/Cow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/animal/HummingBird.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/animal/HummingBird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/employee/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/employee/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/employee/EmployeeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/employee/EmployeeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/employee/FullTimeEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/employee/FullTimeEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/static_abstract/StaticAbstract.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/static_abstract/StaticAbstract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/abstraction/static_abstract/StaticAbstractMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/abstraction/static_abstract/StaticAbstractMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/annotations/SimpleAnnotations.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/annotations/SimpleAnnotations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/AnalyzeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/AnalyzeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/ArrayLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/ArrayLength.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/ArrayOfObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/ArrayOfObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/ArraySize.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/ArraySize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/AverageArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/AverageArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/ConsecutiveArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/ConsecutiveArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/CopyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/CopyArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/GetMaxValueFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/GetMaxValueFromArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/MonthsArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/MonthsArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/ShiftingElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/ShiftingElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/SimpleArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/SimpleArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/array/SumMultiplesOfThreeAndFive.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/array/SumMultiplesOfThreeAndFive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arraylist/ChangeValueInArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arraylist/ChangeValueInArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arraylist/GetSizeArrayListBeforeAndAfter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arraylist/GetSizeArrayListBeforeAndAfter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arraylist/game/GameMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arraylist/game/GameMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/arraylist/game/GameModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/arraylist/game/GameModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/class_example/account/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/class_example/account/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/class_example/account/AccountMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/class_example/account/AccountMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/class_example/doctor/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/class_example/doctor/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/class_example/doctor/AppoinmentMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/class_example/doctor/AppoinmentMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/class_example/doctor/Appointment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/class_example/doctor/Appointment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/class_example/doctor/BasicInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/class_example/doctor/BasicInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/class_example/doctor/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/class_example/doctor/Doctor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/class_example/doctor/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/class_example/doctor/Patient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/class_example/doctor/PersonalSecretary.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/class_example/doctor/PersonalSecretary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/conditional/ComputeArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/conditional/ComputeArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/conditional/ConditionEx1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/conditional/ConditionEx1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/conditional/EqualNumberCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/conditional/EqualNumberCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/conditional/FixError.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/conditional/FixError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/conditional/IfSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/conditional/IfSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/conditional/LowerBoundUpperBound.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/conditional/LowerBoundUpperBound.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/conditional/SwitchStatementExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/conditional/SwitchStatementExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/constructor/ConstructorExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/constructor/ConstructorExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/constructor/date/DateClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/constructor/date/DateClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/constructor/date/DateMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/constructor/date/DateMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/coupling/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/coupling/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/coupling/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/coupling/ShoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/coupling/ShoppingCartEntry.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/coupling/ShoppingCartEntry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/data_type/ByteSimple.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/data_type/ByteSimple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/data_type/Example1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/data_type/Example1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/encapsulation/book/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/encapsulation/book/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/encapsulation/book/BookModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/encapsulation/book/BookModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/encapsulation/book/InheritData.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/encapsulation/book/InheritData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/encapsulation/book/MagazineModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/encapsulation/book/MagazineModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/encapsulation/book/PublicationModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/encapsulation/book/PublicationModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/encapsulation/scorecard/CricketScoreCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/encapsulation/scorecard/CricketScoreCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/encapsulation/scorecard/MainScoreCard.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/encapsulation/scorecard/MainScoreCard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/enum_type/Days.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/enum_type/Days.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/enum_type/EnumConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/enum_type/EnumConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/enum_type/EnumConstructorExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/enum_type/EnumConstructorExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/enum_type/EnumDays$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/enum_type/EnumDays$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/enum_type/EnumDays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/enum_type/EnumDays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/exception_handle/ExceptionHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/exception_handle/ExceptionHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/exception_handle/SimpleTryCatchEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/exception_handle/SimpleTryCatchEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/file_io/FileStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/file_io/FileStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/file_io/ReadFileInToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/file_io/ReadFileInToString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/file_io/ReadFileUsingBufferedInputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/file_io/ReadFileUsingBufferedInputStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/file_io/UsingFileOutputStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/file_io/UsingFileOutputStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/file_io/UsingFileWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/file_io/UsingFileWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/generics/SimpleGenerics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/generics/SimpleGenerics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/getter_setter/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/getter_setter/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/getter_setter/AccountMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/getter_setter/AccountMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/getter_setter/Facebook.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/getter_setter/Facebook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/getter_setter/FacebookMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/getter_setter/FacebookMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/getter_setter/TurnOfMonitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/getter_setter/TurnOfMonitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/box/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/box/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/box/BoxWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/box/BoxWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/box/ColorBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/box/ColorBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/box/MainBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/box/MainBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/box/ReferenceBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/box/ReferenceBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/cycle/Bicycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/cycle/Bicycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/cycle/DurontoCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/cycle/DurontoCycle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/eu/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/eu/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/eu/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/eu/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/eu/SimpleInherit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/eu/SimpleInherit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/simple/ClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/simple/ClassA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/simple/ClassB.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/simple/ClassB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/simple/SimpleInheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/simple/SimpleInheritance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/super_/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/super_/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/super_/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/super_/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inheritance/super_/SuperExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inheritance/super_/SuperExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inner_class/GearBox$Gear.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inner_class/GearBox$Gear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inner_class/GearBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inner_class/GearBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inner_class/GearBoxMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inner_class/GearBoxMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inner_class/OuterClass$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inner_class/OuterClass$InnerClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/inner_class/OuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/inner_class/OuterClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/input_output/IOWithBufferReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/input_output/IOWithBufferReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/input_output/IOWithScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/input_output/IOWithScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/input_output/ScannerVsBufferedReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/input_output/ScannerVsBufferedReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/json/SimpleJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/json/SimpleJson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/loop/LoopEx1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/loop/LoopEx1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/loop/SimpleDoWhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/loop/SimpleDoWhileLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/loop/SimpleForEachLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/loop/SimpleForEachLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/loop/SimpleForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/loop/SimpleForLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/loop/SimpleWhileLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/loop/SimpleWhileLoop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/loop/SumOfNaturalNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/loop/SumOfNaturalNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/method/overloading/ChainingMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/method/overloading/ChainingMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/method/overloading/MOverLoadEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/method/overloading/MOverLoadEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/method/overloading/MethodOverloadEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/method/overloading/MethodOverloadEx2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/method/overriding/SimpleMethodOverriding.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/method/overriding/SimpleMethodOverriding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/BMICalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/BMICalculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/BkashChargeCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/BkashChargeCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/ClassVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/ClassVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/ConversionCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/ConversionCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/DisplayTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/DisplayTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/DynamicInitial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/DynamicInitial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/LocalVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/LocalVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/NumberGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/NumberGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/PrimitiveTypesMinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/PrimitiveTypesMinMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/SimpleCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/SimpleCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/StaticCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/StaticCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/StaticVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/StaticVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/misc_program/TypeCast.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/misc_program/TypeCast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nested_class/InnerClasses$Coupon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nested_class/InnerClasses$Coupon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nested_class/InnerClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nested_class/InnerClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nested_class/StaticNestedClasses$Coupon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nested_class/StaticNestedClasses$Coupon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nested_class/StaticNestedClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nested_class/StaticNestedClasses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/null_example/NullExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/null_example/NullExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/object/ObjectExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/object/ObjectExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/object/ObjectExample3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/object/ObjectExample3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/object/SwapObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/object/SwapObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/operator/BasicArithmeticOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/operator/BasicArithmeticOperators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/operator/CompoundAssignmentOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/operator/CompoundAssignmentOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/operator/IncrementDecrementOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/operator/IncrementDecrementOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/operator/TernaryOperator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/operator/TernaryOperator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/CalculatePowers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/CalculatePowers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/GPACalculation$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/GPACalculation$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/GPACalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/GPACalculation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/LoopSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/LoopSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/Part1$LetterGrades.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/Part1$LetterGrades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/Part1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/Part1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/ReversingTheVowelsInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/ReversingTheVowelsInAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/Solution1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/Solution1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/StringToBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/StringToBinary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/StringToMilliSeconds.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/StringToMilliSeconds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/SumOfAllDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/SumOfAllDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/ApplianceFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/ApplianceFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/ApplianceFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/ApplianceFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/ApplienceConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/ApplienceConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/BillGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/BillGenerator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/Fan.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/Fan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/InterfaceElectricComponent$Unit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/InterfaceElectricComponent$Unit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/InterfaceElectricComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/InterfaceElectricComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/Light.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/PriceSlab.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/electricity_bill_generator/PriceSlab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/Inventory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/Inventory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/InventoryMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/InventoryMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/InventoryManagementSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/InventoryManagementSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/PickingResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/PickingResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/RestockingResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/problems_solution/inventory_system/RestockingResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/regular/expression/Validations.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/regular/expression/Validations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/static_/StaticMethodExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/static_/StaticMethodExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/static_/StaticMethodVariableExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/static_/StaticMethodVariableExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/static_/University.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/static_/University.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/static_/Utitlity.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/static_/Utitlity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/CharArrayToStringExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/CharArrayToStringExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/CheckIfStringEmptyOrNull.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/CheckIfStringEmptyOrNull.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/CheckValidNumberExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/CheckValidNumberExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/ConvertDateToStringExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/ConvertDateToStringExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/ConvertStringToBoolean.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/ConvertStringToBoolean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/ConvertStringToList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/ConvertStringToList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/SearchStringExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/SearchStringExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/SimpleString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/SimpleString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringArrayContainsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringArrayContainsExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringCompareExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringCompareExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringContains.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringContains.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringIndexOf.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringIndexOf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringLengthExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringLengthExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringReplaceExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringReplaceExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringSplitExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringSplitExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringSubStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringSubStr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringToCharacterArrayExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringToCharacterArrayExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/StringValueOfExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/StringValueOfExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/buffer/AppendCodePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/buffer/AppendCodePoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/string/buffer/DeleteCharAt.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/string/buffer/DeleteCharAt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/AdminEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/AdminEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/MyGadget.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/MyGadget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/MyLaptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/MyLaptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/constructor/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/constructor/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/constructor/ConstructorUsingSuper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/constructor/ConstructorUsingSuper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/constructor/SubClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/constructor/SubClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/method/BaseClassMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/method/BaseClassMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/method/MethodUsingSuper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/method/MethodUsingSuper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/super_keyword/method/SubClassMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/super_keyword/method/SubClassMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/this_keyword/ConstructorUsingThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/this_keyword/ConstructorUsingThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/this_keyword/LocalGlobalVariablesUsingThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/this_keyword/LocalGlobalVariablesUsingThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/this_keyword/MethodUsingThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/this_keyword/MethodUsingThis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/thread/SimpleThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/thread/SimpleThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wrapperclass/Autoboxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wrapperclass/Autoboxing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wrapperclass/IntegerWrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wrapperclass/IntegerWrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wrapperclass/PrimitiveWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wrapperclass/PrimitiveWrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wrapperclass/Unboxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wrapperclass/Unboxing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/wrapperclass/WrappingUnWrapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/wrapperclass/WrappingUnWrapping.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_final/FinalEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_final/FinalEx.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/SimpleInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/SimpleInterface.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/vehicle/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/vehicle/Bike.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/vehicle/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/vehicle/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/vehicle/TwoWheeledVehicles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/vehicle/TwoWheeledVehicles.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/vehicle/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_interface/vehicle/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/Person.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticCount.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticMethodExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticMethodExample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticMethodVariableExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticMethodVariableExample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/StaticVariable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/University.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/University.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/Utitlity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_static/Utitlity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/AnotherColors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/AnotherColors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Birds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Birds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Colors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Colors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Emp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Emp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/PersonEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/PersonEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/SuperRealExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/SuperRealExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/SuperWithConstructors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/SuperWithConstructors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/SuperWithMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/SuperWithMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/SuperWithVariables.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/_super/SuperWithVariables.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/abstraction/AbstractClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/abstraction/AbstractClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/abstraction/AbstractClassMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/abstraction/AbstractClassMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/abstraction/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/abstraction/Person.class" afterDir="false" />
@@ -49,6 +283,7 @@
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/ConsecutiveArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/ConsecutiveArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/CopyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/CopyArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/DescendingOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/DescendingOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/FindCommon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/FindCommon.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/FindMinimum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/FindMinimum.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/GetMaxValueFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/GetMaxValueFromArray.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/MonthsArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/array/MonthsArray.class" afterDir="false" />
@@ -64,6 +299,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/ClassVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/ClassVariable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/account/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/account/Account.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/account/AccountMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/account/AccountMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/AnotherSubCarModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/AnotherSubCarModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/CarInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/CarInterface.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/CarModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/CarModel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/MainCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/MainCar.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/SubCarModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/class_example/car/SubCarModel.class" afterDir="false" />
@@ -115,9 +352,12 @@
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/data_type/exrecise/Exercise1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/data_type/exrecise/Exercise1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/data_type/exrecise/Exercise2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/data_type/exrecise/Exercise2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/data_type/exrecise/Exercise3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/data_type/exrecise/Exercise3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/AddAMPMToFormattedDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/AddAMPMToFormattedDate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/CalenderExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/CalenderExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/ConvertDateFormats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/ConvertDateFormats.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/DateEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/DateEx.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/DisplayTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/DisplayTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/GMTtoLocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/GMTtoLocal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/TodayDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/TodayDate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/TodayTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/date_time/TodayTime.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/encapsulation/book/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/encapsulation/book/Book.class" afterDir="false" />
@@ -188,21 +428,23 @@
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/method/overloading/MOverLoadEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/method/overloading/MOverLoadEx.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/method/overloading/MethodOverloadEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/method/overloading/MethodOverloadEx2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/method/overriding/SimpleMethodOverriding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/method/overriding/SimpleMethodOverriding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/BMICalculation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/BMICalculation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/BkashChargeCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/BkashChargeCalc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/CheckPositiveNegativeZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/CheckPositiveNegativeZero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/ConversionCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/ConversionCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/ConvertToKBMBGB.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/ConvertToKBMBGB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/DecimalToHexaConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/DecimalToHexaConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/DynamicInitial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/DynamicInitial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/EncodeDecode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/EncodeDecode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/GreetingsLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/GreetingsLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/LocalVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/LocalVariable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/NumberGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/NumberGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/PrimitiveTypesMinMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/PrimitiveTypesMinMax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/SimpleCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/SimpleCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/TypeCast.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/TypeCast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/WordCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/WordCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/BMICalculation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/BkashChargeCalc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/CheckPositiveNegativeZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/ConversionCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/ConvertToKBMBGB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/DecimalToHexaConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/DynamicInitial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/EncodeDecode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/EpochConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/GreetingsLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/LocalVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/NumberGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/PrimitiveTypesMinMax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/TimeAgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/TypeCast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/misc_program/WordCounter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/nested_class/InnerClasses$Coupon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/nested_class/InnerClasses$Coupon.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/nested_class/InnerClasses.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/nested_class/InnerClasses.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/nested_class/StaticNestedClasses$Coupon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/nested_class/StaticNestedClasses$Coupon.class" afterDir="false" />
@@ -288,10 +530,15 @@
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/this_keyword/MethodUsingThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/this_keyword/MethodUsingThis.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ExtendedMainThread$ExtendedThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ExtendedMainThread$ExtendedThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ExtendedMainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ExtendedMainThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/MainThread$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/MainThread$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/MainThread$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/MainThread$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/MainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/MainThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadColor.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadEx$ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadEx$ThreadTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadEx$ThreadTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadEx$ThreadTest2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadSleep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadSleep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadSleepMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadSleepMain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadState$ThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadState$ThreadTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/thread/ThreadState.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/wrapperclass/Autoboxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/wrapperclass/Autoboxing.class" afterDir="false" />
@@ -299,23 +546,287 @@
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/wrapperclass/PrimitiveWrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/wrapperclass/PrimitiveWrapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/wrapperclass/Unboxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/wrapperclass/Unboxing.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/wrapperclass/WrappingUnWrapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Programming-Example/com/wrapperclass/WrappingUnWrapping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loop/LoopEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/BMICalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/BMICalculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/BkashChargeCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/BkashChargeCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/CheckPositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/CheckPositiveNegativeZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/ConversionCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/ConversionCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/ConvertToKBMBGB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/ConvertToKBMBGB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/DecimalToHexaConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/DecimalToHexaConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/DynamicInitial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/DynamicInitial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/EncodeDecode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/EncodeDecode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/GreetingsLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/GreetingsLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/LocalVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/LocalVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/NumberGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/PrimitiveTypesMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/PrimitiveTypesMinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/SimpleCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/TypeCast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/TypeCast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/misc_program/WordCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/WordCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_final/FinalEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_final/FinalEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_interface/SimpleInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_interface/SimpleInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_interface/vehicle/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_interface/vehicle/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_interface/vehicle/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_interface/vehicle/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_interface/vehicle/TwoWheeledVehicles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_interface/vehicle/TwoWheeledVehicles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_interface/vehicle/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_interface/vehicle/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_static/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_static/StaticCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_static/StaticMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticMethodExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_static/StaticMethodVariableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticMethodVariableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_static/StaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_static/StaticVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_super/SuperRealExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_super/SuperRealExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_super/SuperWithConstructors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_super/SuperWithConstructors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_super/SuperWithMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_super/SuperWithMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/_super/SuperWithVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/_super/SuperWithVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/AbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/AbstractClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/AbstractClassMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/AbstractClassMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/PersonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/PersonMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/animal/AnimalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/animal/AnimalMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/animal/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/animal/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/animal/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/animal/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/animal/HummingBird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/animal/HummingBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/employee/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/employee/EmployeeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/employee/EmployeeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/employee/FullTimeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/employee/FullTimeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/static_abstract/StaticAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/static_abstract/StaticAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/abstraction/static_abstract/StaticAbstractMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/abstraction/static_abstract/StaticAbstractMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/annotations/SimpleAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/annotations/SimpleAnnotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/AnalyzeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/AnalyzeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/ArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/ArrayLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/ArrayOfObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/ArrayOfObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/ArraySize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/ArraySize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/AscendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/AscendingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/AverageArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/AverageArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/ConsecutiveArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/ConsecutiveArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/CopyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/CopyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/DescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/DescendingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/FindCommon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/FindCommon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/FindMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/FindMinimum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/GetMaxValueFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/GetMaxValueFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/MonthsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/MonthsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/ReferenceTypeVsValueType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/ReferenceTypeVsValueType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/ShiftingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/ShiftingElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/SimpleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/SimpleArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/array/SumMultiplesOfThreeAndFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/array/SumMultiplesOfThreeAndFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Branches.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Branches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Customers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Customers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/autoboxing_unboxing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/ClassVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/ClassVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/account/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/account/AccountMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/account/AccountMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/car/AnotherSubCarModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/car/AnotherSubCarModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/car/CarInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/car/CarInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/car/CarModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/car/CarModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/car/MainCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/car/MainCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/car/SubCarModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/doctor/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/doctor/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/doctor/AppoinmentMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/doctor/AppoinmentMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/doctor/Appointment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/doctor/Appointment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/doctor/BasicInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/doctor/BasicInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/doctor/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/doctor/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/doctor/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/doctor/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/class_example/doctor/PersonalSecretary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/class_example/doctor/PersonalSecretary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ChangeValueInArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/ChangeValueInArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/GetSizeArrayListBeforeAndAfter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/GetSizeArrayListBeforeAndAfter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListAscendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListAscendingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListDescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/SortingArrayListDescendingOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/Contacts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/Contacts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/ContactsMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/ContactsMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/MobileNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/contacts/MobileNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/example1/PlayerMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/game/GameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/game/GameMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/game/GameModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arraylist/game/GameModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/arrays/ArraysExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/arrays/ArraysExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/collection_frameworks/linkedList/LinkedListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/IfExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/IfExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/SwitchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/SwitchExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/exercise/ComputeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/ComputeArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/exercise/ConditionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/ConditionEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/exercise/EqualNumberCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/EqualNumberCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/exercise/FixError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/FixError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/exercise/GameOver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/GameOver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/conditional/exercise/LowerBoundUpperBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/conditional/exercise/LowerBoundUpperBound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/constructor/ChainingConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/constructor/ChainingConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/constructor/ConstructorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/constructor/ConstructorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/constructor/date/DateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/constructor/date/DateClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/constructor/date/DateMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/constructor/date/DateMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/coupling/ShoppingCartEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/coupling/ShoppingCartEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/BooleanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/BooleanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/ByteExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/ByteExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/CharExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/CharExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/DoubleExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/DoubleExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/FloatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/FloatExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/IntExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/IntExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/LongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/LongExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/ShortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/ShortExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/StringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/StringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_type/exrecise/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/date_time/AddAMPMToFormattedDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_time/AddAMPMToFormattedDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/date_time/CalenderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_time/CalenderExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/date_time/ConvertDateFormats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_time/ConvertDateFormats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/date_time/DateEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_time/DateEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/date_time/DisplayTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_time/DisplayTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/date_time/GMTtoLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_time/GMTtoLocal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/date_time/TodayDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_time/TodayDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/date_time/TodayTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/date_time/TodayTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/encapsulation/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/encapsulation/book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/encapsulation/book/BookModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/encapsulation/book/BookModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/encapsulation/book/InheritData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/encapsulation/book/InheritData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/encapsulation/book/MagazineModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/encapsulation/book/MagazineModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/encapsulation/book/PublicationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/encapsulation/book/PublicationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/encapsulation/scorecard/CricketScoreCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/encapsulation/scorecard/CricketScoreCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/encapsulation/scorecard/MainScoreCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/encapsulation/scorecard/MainScoreCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enum_type/Days.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enum_type/Days.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enum_type/EnumConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enum_type/EnumConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enum_type/EnumConstructorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enum_type/EnumConstructorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/enum_type/EnumDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/enum_type/EnumDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exception_handle/ExceptionHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception_handle/ExceptionHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/exception_handle/SimpleTryCatchEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/exception_handle/SimpleTryCatchEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/file_io/FileStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/file_io/FileStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/file_io/ReadFileInToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/file_io/ReadFileInToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/file_io/ReadFileUsingBufferedInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/file_io/ReadFileUsingBufferedInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/file_io/UsingFileOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/file_io/UsingFileOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/file_io/UsingFileWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/file_io/UsingFileWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/generics/SimpleGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generics/SimpleGenerics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/getter_setter/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/getter_setter/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/getter_setter/AccountMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/getter_setter/AccountMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/getter_setter/Facebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/getter_setter/Facebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/getter_setter/FacebookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/getter_setter/FacebookMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/getter_setter/TurnOfMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/getter_setter/TurnOfMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/box/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/box/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/box/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/box/BoxWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/box/ColorBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/box/ColorBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/box/MainBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/box/MainBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/box/ReferenceBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/box/ReferenceBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/cycle/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/cycle/Bicycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/cycle/DurontoCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/cycle/DurontoCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/eu/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/eu/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/eu/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/eu/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/eu/SimpleInherit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/eu/SimpleInherit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/simple/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/simple/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/simple/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/simple/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/simple/SimpleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/simple/SimpleInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/super_/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/super_/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/super_/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/super_/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inheritance/super_/SuperExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inheritance/super_/SuperExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inner_class/GearBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inner_class/GearBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inner_class/GearBoxMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inner_class/GearBoxMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/inner_class/OuterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/inner_class/OuterClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/input_output/IOWithBufferReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/input_output/IOWithBufferReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/input_output/IOWithScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/input_output/IOWithScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/input_output/ScannerVsBufferedReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/input_output/ScannerVsBufferedReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/json/SimpleJson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/json/SimpleJson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loop/InTheLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loop/InTheLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loop/LoopEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loop/LoopEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loop/SimpleDoWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loop/SimpleDoWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loop/SimpleForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loop/SimpleForEachLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loop/SimpleForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loop/SimpleForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loop/SimpleWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loop/SimpleWhileLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loop/SumOfNaturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loop/SumOfNaturalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/GameOver2Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/GameOver2Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/GameOverMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/GameOverMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/ReturnMultipleValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/ReturnMultipleValues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/Swap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/overloading/ChainingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/overloading/ChainingMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/overloading/FeetInchesCentimetersConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/overloading/FeetInchesCentimetersConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/overloading/GameOverOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/overloading/GameOverOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/overloading/HoursMinutesSeconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/overloading/HoursMinutesSeconds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/overloading/MOverLoadEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/overloading/MOverLoadEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/overloading/MethodOverloadEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/overloading/MethodOverloadEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/method/overriding/SimpleMethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/method/overriding/SimpleMethodOverriding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nested_class/InnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nested_class/InnerClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nested_class/StaticNestedClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nested_class/StaticNestedClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/null_example/NullExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/null_example/NullExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/object/ObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/object/ObjectExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/object/ObjectExample3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/object/ObjectExample3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/object/SwapObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/object/SwapObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/BasicArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/BasicArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/BitwiseOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/BitwiseOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/CompoundAssignmentOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/CompoundAssignmentOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/EqualityRelationalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/EqualityRelationalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/IncrementDecrementOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/IncrementDecrementOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/InstanceofOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/InstanceofOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/LogicalOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/LogicalOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/UnaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/UnaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/operator/exrecise/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/operator/exrecise/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/BMICalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/BMICalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/BkashChargeCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/BkashChargeCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/CalculatePowers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/CalculatePowers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/CheckPositiveNegativeZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/CheckPositiveNegativeZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/ConversionCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/ConversionCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/ConvertToKBMBGB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/ConvertToKBMBGB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/DecimalToHexaConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/DecimalToHexaConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/DynamicInitial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/DynamicInitial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/EncodeDecode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/EncodeDecode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/EpochConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/EpochConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/GPACalculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/GPACalculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/GreetingsLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/GreetingsLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/LocalVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/LocalVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/LoopSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/LoopSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/NumberGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/Part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/Part1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/PrimitiveTypesMinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/PrimitiveTypesMinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/ReversingTheVowelsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/ReversingTheVowelsInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/Solution1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/Solution1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/StringToBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/StringToBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/StringToMilliSeconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/StringToMilliSeconds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/SumOfAllDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/SumOfAllDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/TimeAgo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/TimeAgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/TypeCast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/TypeCast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/WordCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/WordCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/ApplianceFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/ApplianceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/ApplienceConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/ApplienceConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/BillGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/BillGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/Fan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/InterfaceElectricComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/InterfaceElectricComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/PriceSlab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/electricity_bill_generator/PriceSlab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/InventoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/InventoryMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/InventoryManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/InventoryManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/PickingResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/PickingResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/RestockingResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/problems_solution/inventory_system/RestockingResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/regular/expression/Validations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/regular/expression/Validations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/CharArrayToStringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/CharArrayToStringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/CheckIfStringEmptyOrNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/CheckIfStringEmptyOrNull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/CheckValidNumberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/CheckValidNumberExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/ConvertDateToStringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/ConvertDateToStringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/ConvertStringToBoolean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/ConvertStringToBoolean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/ConvertStringToList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/ConvertStringToList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/SearchStringExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/SearchStringExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/SimpleString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/SimpleString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringArrayContainsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringArrayContainsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringCompareExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringCompareExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringContains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringContains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringIndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringIndexOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringLengthExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringLengthExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringReplaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringReplaceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringSplitExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringSplitExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringSubStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringSubStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringToCharacterArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringToCharacterArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/StringValueOfExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/StringValueOfExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/buffer/AppendCodePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/buffer/AppendCodePoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/string/buffer/DeleteCharAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/string/buffer/DeleteCharAt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/AdminEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/AdminEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/MyGadget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/MyGadget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/MyLaptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/MyLaptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/constructor/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/constructor/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/constructor/ConstructorUsingSuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/constructor/ConstructorUsingSuper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/constructor/SubClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/constructor/SubClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/method/BaseClassMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/method/BaseClassMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/method/MethodUsingSuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/method/MethodUsingSuper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/super_keyword/method/SubClassMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/super_keyword/method/SubClassMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/this_keyword/ConstructorUsingThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/this_keyword/ConstructorUsingThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/this_keyword/LocalGlobalVariablesUsingThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/this_keyword/LocalGlobalVariablesUsingThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/this_keyword/MethodUsingThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/this_keyword/MethodUsingThis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thread/ExtendedMainThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thread/ExtendedMainThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thread/MainThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thread/MainThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thread/ThreadEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thread/ThreadEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thread/ThreadSleepMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thread/ThreadSleepMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/thread/ThreadState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/thread/ThreadState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wrapperclass/Autoboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wrapperclass/Autoboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wrapperclass/IntegerWrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wrapperclass/IntegerWrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wrapperclass/PrimitiveWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wrapperclass/PrimitiveWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wrapperclass/Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wrapperclass/Unboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wrapperclass/WrappingUnWrapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wrapperclass/WrappingUnWrapping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testFile.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -344,6 +855,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -357,7 +874,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LoopEx1">
+  <component name="RunManager" selected="Application.MainComputer">
     <configuration name="AddAMPMToFormattedDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.date_time.AddAMPMToFormattedDate" />
       <module name="Java-Programming-Example" />
@@ -397,13 +914,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainComputer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inheritance.computer.MainComputer" />
+      <module name="Java-Programming-Example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inheritance.computer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.AddAMPMToFormattedDate" />
       <item itemvalue="Application.ConvertDateFormats" />
       <item itemvalue="Application.LoopEx1" />
+      <item itemvalue="Application.MainComputer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainComputer" />
         <item itemvalue="Application.LoopEx1" />
         <item itemvalue="Application.ConvertDateFormats" />
         <item itemvalue="Application.AddAMPMToFormattedDate" />
@@ -425,8 +957,32 @@
       <workItem from="1557389931669" duration="3779000" />
       <workItem from="1565364217095" duration="2030000" />
       <workItem from="1566103811163" duration="2963000" />
-      <workItem from="1566404890542" duration="1141000" />
+      <workItem from="1566404890542" duration="2245000" />
+      <workItem from="1566665954717" duration="4118000" />
+      <workItem from="1570854695542" duration="275000" />
     </task>
+    <task id="LOCAL-00001" summary="time ago program">
+      <created>1566410824860</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566410824860</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new date time related program added">
+      <created>1566410863176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566410863176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="some program are modify">
+      <created>1566410920798</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566410920799</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -474,6 +1030,12 @@
         <option value="1" />
       </set>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="time ago program" />
+    <MESSAGE value="new date time related program added" />
+    <MESSAGE value="some program are modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="some program are modify" />
   </component>
   <component name="masterDetails">
     <states>
